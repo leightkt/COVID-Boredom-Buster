@@ -47,10 +47,12 @@ Acessibility is returned from the API and stored in the database as a float betw
 Future iterations could include an option for a user to add their own activities and include these user activities in the random suggestions. Full login could be implemented with a username and password. Users could rate activities or check off ones they've tried. 
 
 ## TECHNOLOGY
-This app was created using Ruby on Rails, ActiveRecord, Javascript, and SQLite3. 
+This app was created using Ruby on Rails, ActiveRecord, Javascript, HTML, CSS, and SQLite3. 
 
 ## DEPLOYMENT
 To use this app, download the files, cd into the backend folder, and run bundle install, then rails db:migrate.  
 Run your rails server on port 9000 with rails s -p 9000.  
 Cd into your frontend and run lite-server. 
-# COVID-Boredom-Buster
+
+## DEMONSTRATION
+A demostration of the app can be viewed here: https://youtu.be/jVhWBMEuKho 
